@@ -141,6 +141,7 @@ export default Base.extend({
           'webpack',
           'webpack-dev-middleware',
           'webpack-hot-middleware'
+          ['webpack-sources', '0.1.0']
         ]
       );
     }
