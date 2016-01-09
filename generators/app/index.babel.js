@@ -140,7 +140,7 @@ export default Base.extend({
           'style-loader',
           'webpack',
           'webpack-dev-middleware',
-          'webpack-hot-middleware'
+          'webpack-hot-middleware',
           ['webpack-sources', '0.1.0']
         ]
       );
